@@ -1,13 +1,11 @@
 ## Blogger
 
-This is a basic Blogger clone to create a blog with comments.
 
 Time spent: `12 hrs`
 
 **To run:**
 
 ```
-
 npm install
 npm start
 ```
