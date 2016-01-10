@@ -35,3 +35,7 @@ npm start
 - [ ] Users can upvote/downvote comments when logged in
 - [ ] Users can edit their comments
 - [ ] Public user profiles show their information, posts and comments
+
+Walkthrough Gif:
+
+![Video Walkthrough](nodeBlogger.gif)
